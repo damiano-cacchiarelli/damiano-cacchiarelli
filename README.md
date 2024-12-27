@@ -1,15 +1,14 @@
 <h1 align="center">👋 Hi, I'm Damiano! 👋</h1>
 
-<!--
 <p align="center">
-🎓 Passionate Developer | 🚀 Tech Enthusiast | 💡 Lifelong Learner
-</p> -->
+💬 "<i>Talk is cheap. Show me the code</i>" - Linus Torvalds
+</p>
 
 ## 🌟 About Me  
 - 🎓 **Master's Degree** in Computer Science from the **University of Camerino**  
 - 💼 Currently working as a **Consultant** at **Blue Reply**  
 - 🌱 Always exploring the latest in technology and software development
-- 
+
 
 ## 📬 Let's Connect  
 - 🌐 [LinkedIn Profile](https://www.linkedin.com/in/damiano-cacchiarelli/)  
